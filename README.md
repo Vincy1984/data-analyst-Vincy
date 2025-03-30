@@ -22,7 +22,7 @@ The 3 1 1 Service request Dataset consists of information of service request rai
 - Latitude
 - Longitude
 
-  **Methodology**
+ **Methodology**
   
  **Data Ingestion**
 
